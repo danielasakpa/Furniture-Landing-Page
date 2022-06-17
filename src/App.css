@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@300;600&display=swap');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+  font-family: 'Saira', sans-serif;
+}
+
+
+.homebanner {
+        background-image: url("./assets/images/modern-living-room-interior-2021-09-02-08-41-17-utc.png");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+.navbar-link a:hover {
+    font-weight: 600;
+}
+
+
