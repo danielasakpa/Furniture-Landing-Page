@@ -23,7 +23,7 @@ const HomeBanner = () => {
           textAlign="center" 
           sx={{background: "#286F6C", flexDirection: {md: "row", xs: "column"}, flexWrap: "wrap", borderRadius: "20px", gap: 3, justifyContent: "space-around" }} 
           mt={20} 
-          mx={1} 
+          mx={2} 
           p={4} 
           >
         <Stack direction="row" justifyContent="space-around" spacing={{lg: 8, md: 9}}>
